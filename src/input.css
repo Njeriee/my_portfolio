@@ -1,0 +1,20 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    margin: 0px;
+    background-color:#F8E8F1;
+}
+
+.topnav{
+    position: sticky;
+    display: flex;
+    justify-content: right;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+}
